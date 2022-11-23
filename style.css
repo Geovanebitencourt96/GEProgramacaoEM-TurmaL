@@ -12,7 +12,7 @@ h1,h2,h3,h4,h5,h6,p,ul{
     padding: 10px;
     margin:  10px;
 
-    
+
 }
 body h2 {
 
@@ -64,11 +64,11 @@ main {
 }
 
 footer {
-   background-color: #FFBE56;
+   background-color: #d6d5d4;
 }
 
 .momentos{
-    background-color: #F783CB;
+    background-color: #8674eb;
     margin: 10px;
     padding: 10px;
     border: black solid 2px;
